@@ -9,13 +9,16 @@ My collection of recipes, with conversions, maybe R based, just cos
 * Bread
   - Basic White
   - Sour Dough
-* [Croissants](https://github.com/MattBixley/bakeR/blob/main/croissants)
-  - July is Tour de France
-* Baguettes
+* Layered
+  - [Croissants](https://github.com/MattBixley/bakeR/blob/main/croissants)
+  -[Kouign-Amann](https://github.com/MattBixley/bakeR/blob/main/kouign-amann)
+* Rolls
+  - Baguettes
   - Bread Rolls
-  - Garlic Bread
+  - Dinner Rolls
+  - Burger Buns
 * Pizza Dough
 * Focaccia
   - Camping
-* [Cinnamon Scrolls](https://github.com/MattBixley/bakeR/blob/main/cinnamon_rolls)
-* Dinner Rolls
+* Sweet Breads
+  - [Cinnamon Scrolls](https://github.com/MattBixley/bakeR/blob/main/cinnamon_rolls)
