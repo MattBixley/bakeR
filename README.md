@@ -1,6 +1,6 @@
 WORK IN PROGRESS
 
-All recipes will end up being my versions tried and true. This lin ewill be removed when I've actually populated the list.
+All recipes will end up being my versions, tried and true. This line will be removed when I've actually populated the list.
 
 # bakeR
 
