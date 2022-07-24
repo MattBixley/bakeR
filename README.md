@@ -10,8 +10,8 @@ My collection of recipes, with conversions, maybe R based, just cos
   - Basic White
   - Sour Dough
 * Layered
-  - [Croissants](https://github.com/MattBixley/bakeR/blob/main/croissants)  
-  - [Kouign-Amann](https://github.com/MattBixley/bakeR/blob/main/kouign-amann)  
+  - [Croissants](https://github.com/MattBixley/bakeR/blob/main/croissants.md)  
+  - [Kouign-Amann](https://github.com/MattBixley/bakeR/blob/main/kouign-amann.md)  
 * Rolls
   - Baguettes
   - Bread Rolls
@@ -21,4 +21,5 @@ My collection of recipes, with conversions, maybe R based, just cos
 * Focaccia
   - Camping
 * Sweet Breads
-  - [Cinnamon Scrolls](https://github.com/MattBixley/bakeR/blob/main/cinnamon_rolls)
+  - [Cinnamon Scrolls](https://github.com/MattBixley/bakeR/blob/main/cinnamon_rolls.md)
+
