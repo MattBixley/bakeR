@@ -10,8 +10,8 @@ My collection of recipes, with conversions, maybe R based, just cos
   - Basic White
   - Sour Dough
 * Layered
-  - [Croissants](https://mattbixley.github.io/bakeR/blob/main/croissants)  
-  - [Kouign-Amann](https://mattbixley.github.io/bakeR/blob/main/kouign-amann)  
+  - [Croissants](https://github.com/MattBixley/bakeR/blob/main/croissants)  
+  - [Kouign-Amann](https://github.com/MattBixley/bakeR/blob/main/kouign-amann)  
 * Rolls
   - Baguettes
   - Bread Rolls
