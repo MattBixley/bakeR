@@ -9,3 +9,5 @@ Pinch of caster sugar
 1 tsp salt
 
 60ml (1/4 cup) olive oil, plus extra for brushing
+
+Makes 1kg Dough - 5x 200g Pizza Bases, 20cm
