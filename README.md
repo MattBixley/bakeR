@@ -17,7 +17,7 @@ My collection of recipes, with conversions, maybe R based, just cos
   - Bread Rolls
   - Dinner Rolls
   - Burger Buns
-* Pizza Dough
+* [Pizza Dough](https://github.com/MattBixley/bakeR/blob/main/pizza.md)
 * Focaccia
   - Camping
 * Sweet Breads
