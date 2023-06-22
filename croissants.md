@@ -2,21 +2,21 @@ https://cooking.nytimes.com/recipes/1022053-croissants?smid=yt-nytfood&smtyp=cur
 https://www.youtube.com/watch?v=vpwY3nmLLaA&ab_channel=NYTCooking
 
 ## Ingredients
-Yield: 8 croissants
-For the Détrempe (dough)
-4⅔ cups/605 grams all-purpose or bread flour, plus more for dusting
-⅓ cup/66 grams granulated sugar
-1 tablespoon plus ½ teaspoon/12 grams kosher salt
-2¼ teaspoons/7 grams active dry yeast
-¾ cup plus 2 tablespoons/214 grams water, at room temperature
-½ cup/120 grams whole milk, at room temperature
-¼ cup/57 grams unsalted butter, cut into ½-inch pieces, chilled
+Yield: 8 croissants  
+For the Détrempe (dough)  
+4⅔ cups/605 grams all-purpose or bread flour, plus more for dusting  
+⅓ cup/66 grams granulated sugar  
+1 tablespoon plus ½ teaspoon/12 grams kosher salt  
+2¼ teaspoons/7 grams active dry yeast  
+¾ cup plus 2 tablespoons/214 grams water, at room temperature  
+½ cup/120 grams whole milk, at room temperature  
+¼ cup/57 grams unsalted butter, cut into ½-inch pieces, chilled  
 
-For the Butter Block and Assembly
-1½ cups/340 grams unsalted European or European-style butter (3 sticks), chilled
-All-purpose flour, for rolling
-1 large egg yolk
-1 tablespoon heavy cream
+For the Butter Block and Assembly  
+1½ cups/340 grams unsalted European or European-style butter (3 sticks), chilled  
+All-purpose flour, for rolling  
+1 large egg yolk  
+1 tablespoon heavy cream  
 
 ## Preparation
 
