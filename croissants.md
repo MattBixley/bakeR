@@ -131,14 +131,14 @@ four per sheet. Very loosely cover the baking sheets with plastic wrap, so the c
 
 ### Step 21  
 Three and a half hours before serving, open the oven and stick your hand inside: It should be humid but not hot, as the water in the skillet will have cooled. 
-You want the croissants to proof at 70 to 75 degrees. (Any hotter and the butter will start to melt, leading to a denser croissant.) 
+You want the croissants to proof at 70 to 75 degrees (20-25 C). Any hotter and the butter will start to melt, leading to a denser croissant.
 Place the baking sheets inside the oven and let the croissants proof until they’re about doubled in size, extremely puffy, and jiggle delicately when the 
 baking sheet is gently shaken, 2 to 2½ hours. Resist the urge to touch or poke the croissants as they proof: They’re very delicate. Try not to rush this process, 
 either, as an underproofed croissant will not be as light and ethereal.
 
 ### Step 22  
 Remove the baking sheets from the oven and carefully uncover them, then transfer to the refrigerator and chill for 20 minutes while you heat the oven. 
-Remove the skillet from the oven and heat to 375 degrees.
+Remove the skillet from the oven and heat to 375 degrees (190 C).
 
 ### Step 23  
 In a small bowl, stir the yolk and heavy cream until streak-free. Using a pastry brush, gently brush the smooth surfaces of each crescent with the yolk and 
