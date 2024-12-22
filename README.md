@@ -7,7 +7,7 @@ All recipes will end up being my versions, tried and true. This line will be rem
 My collection of recipes, with conversions, maybe R based, just cos
 
 * Bread
-  - Basic White
+  - Basic White (60% Hydration)
   - Sour Dough
 * Layered
   - [Croissants](https://github.com/MattBixley/bakeR/blob/main/croissants.md)  
